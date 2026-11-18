@@ -1,0 +1,6 @@
+venv/
+signup_pipeline.db
+__pycache__/
+landing_folder/*.csv
+quarantine_folder/*.csv
+archive_folder/*.csv
